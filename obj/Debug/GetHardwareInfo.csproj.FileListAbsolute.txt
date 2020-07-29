@@ -1,0 +1,9 @@
+C:\Users\Hunter Pollock\Desktop\Projects\SysData\bin\Debug\GetHardwareInfo.exe
+C:\Users\Hunter Pollock\Desktop\Projects\SysData\bin\Debug\GetHardwareInfo.pdb
+C:\Users\Hunter Pollock\Desktop\Projects\SysData\obj\Debug\GetHardwareInfo.csprojAssemblyReference.cache
+C:\Users\Hunter Pollock\Desktop\Projects\SysData\obj\Debug\GetHardwareInfo.frmMain.resources
+C:\Users\Hunter Pollock\Desktop\Projects\SysData\obj\Debug\GetHardwareInfo.Properties.Resources.resources
+C:\Users\Hunter Pollock\Desktop\Projects\SysData\obj\Debug\GetHardwareInfo.csproj.GenerateResource.cache
+C:\Users\Hunter Pollock\Desktop\Projects\SysData\obj\Debug\GetHardwareInfo.csproj.CoreCompileInputs.cache
+C:\Users\Hunter Pollock\Desktop\Projects\SysData\obj\Debug\GetHardwareInfo.exe
+C:\Users\Hunter Pollock\Desktop\Projects\SysData\obj\Debug\GetHardwareInfo.pdb

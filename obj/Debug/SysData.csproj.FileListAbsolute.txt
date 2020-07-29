@@ -1,0 +1,8 @@
+C:\Users\Hunter Pollock\Desktop\Projects\SysData\obj\Debug\GetHardwareInfo.frmMain.resources
+C:\Users\Hunter Pollock\Desktop\Projects\SysData\obj\Debug\SysData.csproj.GenerateResource.cache
+C:\Users\Hunter Pollock\Desktop\Projects\SysData\obj\Debug\SysData.csproj.CoreCompileInputs.cache
+C:\Users\Hunter Pollock\Desktop\Projects\SysData\bin\Debug\SysData.exe
+C:\Users\Hunter Pollock\Desktop\Projects\SysData\bin\Debug\SysData.pdb
+C:\Users\Hunter Pollock\Desktop\Projects\SysData\obj\Debug\SysData.Properties.Resources.resources
+C:\Users\Hunter Pollock\Desktop\Projects\SysData\obj\Debug\SysData.exe
+C:\Users\Hunter Pollock\Desktop\Projects\SysData\obj\Debug\SysData.pdb
